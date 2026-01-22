@@ -1,0 +1,8 @@
+1   Complete the Data Collection API Lab    jupyter-labs-spacex-data-collection-api.ipynb
+2   Complete the Data Collection with Web Scraping lab  jupyter-labs-webscraping.ipynb
+3   Data Wrangling  labs-jupyter-spacex-Data wrangling.ipynb
+4   Complete the EDA with SQL   jupyter-labs-eda-sql-coursera_sqllite.ipynb
+5   EDA with Visualization Lab  edadataviz.ipynb
+6   Interactive Visual Analytics with Folium lab    lab_jupyter_launch_site_location.ipynb
+7   Build an Interactive Dashboard with Plotly Dash spacex-dash-app.py
+8   Complete the Machine Learning Prediction lab    SpaceX_Machine Learning Prediction_Part_5.ipynb
